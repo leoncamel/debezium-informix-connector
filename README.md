@@ -1,4 +1,6 @@
 
+# This repository is archived, please go to [dbz-ifx/debezium-informix-connector](https://github.com/dbz-ifx/debezium-informix-connector) for latest development.
+
 [![License](http://img.shields.io/:license-apache%202.0-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
